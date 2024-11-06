@@ -1,0 +1,9 @@
+[submodule "Failsafe_Traj"]
+	path = Failsafe_Traj
+	url = https://github.com/prachitgupta/Failsafe_traj.git
+[submodule "ValueFunctionGenerator"]
+	path = ValueFunctionGenerator
+	url = https://github.com/prachitgupta/ValueFunctionGenerator.git
+[submodule "Mpc_overtaking"]
+	path = Mpc_overtaking
+	url = https://github.com/prachitgupta/MPC_Overtaking.git
