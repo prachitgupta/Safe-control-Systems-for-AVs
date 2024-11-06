@@ -2,9 +2,9 @@
 Provable safety for self driving cars using frs based convex optimization and hji- reachability based BRS
 
 ## Table of Contents
-1. [Fail-Safe Motion Planning for Online Verification of Avs](#project-1-title-and-brief-description)
-2. [Avoid sets using HJI based Backward Reachability Analysis](#project-2-title-and-brief-description)
-3. [Infusing avoid sets in MPC framework](#project-3-title-and-brief-description)
+1. [Fail-Safe Motion Planning for Online Verification of Avs](#Fail-Safe Motion Planning for Online Verification of Avs)
+2. [Avoid sets using HJI based Backward Reachability Analysis](#Value function generator)
+3. [Infusing avoid sets in MPC framework](#MPC for overtaking (invariably safe))
 
 ---
 
@@ -23,7 +23,7 @@ Provable safety for self driving cars using frs based convex optimization and hj
 
 
 **Repository Link:**  
-[BRTs Computation](https://github.com/prachitgupta/MPC_Overtaking.git)
+[BRTs Computation](https://github.com/prachitgupta/ValueFunctionGenerator.git)
 
 
 **Technologies Used:**  
@@ -36,7 +36,7 @@ Provable safety for self driving cars using frs based convex optimization and hj
 ## MPC for overtaking (invariably safe)
 
 **Repository Link:**  
-[MPC infused reachability](https://github.com/username/Project3)
+[MPC infused reachability](https://github.com/prachitgupta/MPC_Overtaking.git)
 
 
 **Technologies Used:**  
@@ -46,9 +46,7 @@ Provable safety for self driving cars using frs based convex optimization and hj
 
 ---
 
-## Summary of Research Insights
-Provide a brief summary of the major insights or outcomes of this research, as it relates to the overarching field.
 
 ## Contact
-For more information, feel free to reach out at [your.email@example.com].
+For more information, feel free to reach out at [prachitgupta30@gmail.com].
 
